@@ -1,4 +1,4 @@
-const { DELETE } = require('sequelize/types/query-types');
+
 const { CityService } = require('../services/index');
 
 
