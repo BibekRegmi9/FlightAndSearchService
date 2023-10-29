@@ -20,7 +20,7 @@ class CityRepository {
         try {
             await City.destroy({
                 where: {
-                    id: cityId
+                    id: cityId  
                 }
             });
             return true;
