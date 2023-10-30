@@ -1,13 +1,14 @@
 # Flights and Search Service
 
 ## Project Setup
-![Database-Design]()
+[Database-Design](https://github.com/BibekRegmi9/FlightAndSearchService/assets/47585371/01de4aa2-3a42-4071-9986-efbe055dd5fb)
+
 
 - clone the project 
-- Run `npm install` on the same path as of your root directory of to downloaded the project
+- Run `npm install` on the same path as your root directory to downloaded the project
 - Create a `.env` file in the root directory and add the following environment variable
     - `PORT=3000`
-- Inside the `src/config` folder create a new file `config.json` and then add the following piece of json
+- Inside the `src/config` folder create a new file `config.json` and then add the following piece of JSON
 
 ```
 {
