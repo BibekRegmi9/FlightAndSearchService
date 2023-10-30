@@ -14,14 +14,11 @@ router.get('/city', CityController.getAll);
 
 
 // Airport Routes
-router.post('/airport', AirportController.create);
-router.delete('/airport/:id', AirportController.destroy);
-router.get('/airport/:id', AirportController.get);
-router.patch('/airport/:id', AirportController.update);
-router.get('/airport', AirportController.getAll);
+router.post('/airports', AirportController.create);
 
 
 // Flight Routes
 router.post('/flights', FlightController.create);
+router.get('/flights', FlightController.getAll);
 
 module.exports = router;
