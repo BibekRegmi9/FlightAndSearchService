@@ -2,7 +2,8 @@
 
 ## Project Setup
 # Database Design
-(https://github.com/BibekRegmi9/FlightAndSearchService/assets/47585371/01de4aa2-3a42-4071-9986-efbe055dd5fb)
+![Database-Design](https://github.com/BibekRegmi9/FlightAndSearchService/assets/47585371/87ebdb43-d300-4cbb-bbf6-d88ff5a7cdf0)
+
 
 
 - clone the project 
