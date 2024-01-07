@@ -29,11 +29,7 @@ and then execute
 
 - To migrate the model, execute the below command.
 `npx sequelize db:migrate`
-```
-
-
-
-
+  
 
 
 # DB Design
