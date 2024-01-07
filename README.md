@@ -36,7 +36,7 @@ and then execute
 
 
 
-## DB Design
+# DB Design
   - Airplane Table
   - Flight
   - Airport
@@ -45,6 +45,13 @@ and then execute
   - A flight belongs to an airplane but one airplane can be used in multiple flights
   - A city has many airports but one airport belongs to a city
   - One airport can have many flights, but a flight belongs to one airport
+
+
+# Other Microservices
+- Authentication Service ![Github](https://github.com/BibekRegmi9/AuthenticationService)
+- Booking Service ![Github](https://github.com/BibekRegmi9/BookingService)
+- Reminder Service ![Github](https://github.com/BibekRegmi9/ReminderService)
+- API Gateway ![Github](https://github.com/BibekRegmi9/ApiGateway)
 
 
 
